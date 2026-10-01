@@ -1,0 +1,6 @@
+{
+  "name": "LYRA AI",
+  "description": "Your Intelligent Mobile Companion. Futuristic female AI assistant with natural voice, multilingual support, device control, vision, and emotion awareness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
